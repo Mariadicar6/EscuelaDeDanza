@@ -1,0 +1,34 @@
+.heroImg{
+	background: url("../img/dance_7.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	height: 57%;
+	color: white;
+	padding: 5%;
+}
+
+.frase{
+	background: url("../img/textura_2.jpg");
+	padding: 4% 25%;
+	text-align: center;
+}
+
+.frase img{
+	width: 15%;
+}
+
+.fondo-cubos{
+	background: url("../img/cubes.png");
+	padding: 5% 0%;
+}
+
+hr { 
+    border-width: 2px !important;
+    border-color: #848484 !important;
+}
+
+.instructores img{
+	width: 100%;
+	height: 15%;
+}
+

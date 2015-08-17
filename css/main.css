@@ -1,0 +1,64 @@
+.heroImg{
+	background: url("../img/dance_1.jpg");
+	background-size: cover;
+	height: 57%;
+	color: white;
+	padding: 5%;
+}
+
+.frase{
+	background: url("../img/textura_2.jpg");
+	padding: 4% 25%;
+	text-align: center;
+}
+
+.frase img{
+	width: 15%;
+}
+
+.btnOferta{
+	background-color: #192951;
+}
+
+.borde{
+	border: 2px solid #192951;
+}
+
+.instructor1{
+	width: 100%;
+	/*background: url("../img/instructor_4.jpg");
+	background-size: 100% 100%;*/
+	
+}
+
+.instructor2{
+	width: 100%;
+	/*background: url("../img/profesor_9.jpg");
+	height: 60%;*/
+}
+
+.rowTable {
+  display: table;
+  margin-right: 0px !important;
+}
+
+.rowTable .col-sm-6 {
+  display: table-cell;
+  float: none;
+  vertical-align: top;
+  margin: 0px;
+}
+
+.sinpadding [class*="col-"] {
+    padding: 0;
+}
+
+.sinmargin{
+    margin: 0;
+}
+
+.visitanos{
+	background-color: #192951;
+	padding: 5%;
+	color: white;
+}
