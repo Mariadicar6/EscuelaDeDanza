@@ -25,10 +25,23 @@
 }
 
 .instructor1{
-	width: 100%;
-	/*background: url("../img/instructor_4.jpg");
-	background-size: 100% 100%;*/
-	
+	width: 100%;	
+}
+
+.img-contenedor:hover img {
+-webkit-transform:scale(1.5);
+-moz-transform:scale(1.5);
+-ms-transform:scale(1.5);
+-o-transform:scale(1.5);
+transform:scale(1.5);
+}
+/*Reducir tamaño*/
+.img-contenedor:hover img {
+-webkit-transform:scale(0.25);
+-moz-transform:scale(0.25);
+-ms-transform:scale(0.25);
+-o-transform:scale(0.25);
+transform:scale(0.25);
 }
 
 .instructor2{

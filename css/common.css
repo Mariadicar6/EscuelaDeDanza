@@ -19,7 +19,7 @@ body{
 	color: black;
 }
 
-.titulo a:hover{
+.titulo:hover{
 	text-decoration: none;
 	color:#192951;
 }
