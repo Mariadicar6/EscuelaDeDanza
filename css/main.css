@@ -50,6 +50,18 @@ transform:scale(0.25);
 	height: 60%;*/
 }
 
+.imagenes-instructores{
+	position: relative;
+}
+
+.nuestros-instructores{
+	position: absolute;
+	bottom: 0%;
+	padding: 4%;
+	background-color: #192951;
+	z-index: 100;
+}
+
 .rowTable {
   display: table;
   margin-right: 0px !important;
